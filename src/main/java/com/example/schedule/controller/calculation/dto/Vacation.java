@@ -1,4 +1,4 @@
-package com.example.schedule.dto;
+package com.example.schedule.controller.calculation.dto;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.AllArgsConstructor;
