@@ -1,6 +1,7 @@
-package com.example.schedule.model.calculator;
+package com.example.schedule.model.calculator.date;
 
-import com.example.schedule.dto.Vacation;
+import com.example.schedule.controller.calculation.dto.Vacation;
+import com.example.schedule.model.calculator.ICalculator;
 import com.example.schedule.model.holiday.IHoliday;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
